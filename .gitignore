@@ -1,5 +1,4 @@
 # Byte-compiled / optimized / DLL files
-pipfile.lock
 __pycache__/
 *.py[cod]
 *$py.class
